@@ -13,6 +13,7 @@ export default Vue.extend({
   name: "Home",
   components: {
     HelloWorld,
-  },
+  }
+
 });
 </script>
